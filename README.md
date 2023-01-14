@@ -7,4 +7,4 @@ A base desse projeto desenvolvida juntamente do canal Sujeito programador. Proje
 - JavaScript
 
 # Funcionamento do site em vídeo
-![Git Site](https://github.com/tatehira/GeradorSenhas/blob/main/GifGeradorSenhas.gif)
+![Git Site](https://github.com/tatehira/GeradorSenhas/blob/main/assets/GifGeradorSenhas.gif)
